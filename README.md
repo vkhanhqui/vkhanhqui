@@ -12,7 +12,7 @@
 </p>
 
 ## 💬 Ask me about
-- Backend web development (Python)
+- Backend web development (Python, Java)
 - Docker
 - Amazon Web Services
 
