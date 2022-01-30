@@ -17,5 +17,5 @@
 - Amazon Web Services
 
 ## 📅 Hobbies
-- Solve programming problems at HackerRank
+- Solve programming problems at <a href="https://www.hackerrank.com/vkhanhqui" style="text-decoration-line:none;">HackerRank</a>
 - Watch the sunset
