@@ -6,16 +6,7 @@
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://github.com/vkhanhqui" target="_blank"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "mailto:vkhanhqui@gmail.com" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/gmail.png" /> </a>
-<a href= "https://www.facebook.com/vkhanhqui" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/facebook.png"/></a>
+<a href= "https://linkedin.com/in/qui-vo-40164b1ba"><img style="width:30px;height:30px" src="https://img.icons8.com/ios/344/linkedin.png"/></a>
+<a href= "mailto:vkhanhqui@gmail.com"><img style="width:30px;height:30px" src="https://img.icons8.com/material-outlined/344/gmail-new.png" /> </a>
+<a href= "https://www.hackerrank.com/vkhanhqui"><img style="width:30px;height:30px" src="https://img.icons8.com/windows/344/hackerrank.png"/></a>
 </p>
-
-## 💬 Ask me about
-- Backend web development (Python, Java)
-- Docker
-- Amazon Web Services
-
-## 📅 Hobbies
-- Solve programming problems at <a href="https://www.hackerrank.com/vkhanhqui" style="text-decoration-line:none;" target="_blank">HackerRank</a>
-- Watch the sunset
