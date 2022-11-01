@@ -6,7 +6,7 @@
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://linkedin.com/in/qui-vo-40164b1ba"><img style="width:30px;height:30px" src="https://img.icons8.com/ios/344/linkedin.png"/></a>
-<a href= "mailto:vkhanhqui@gmail.com"><img style="width:30px;height:30px" src="https://img.icons8.com/material-outlined/344/gmail-new.png" /> </a>
-<a href= "https://www.hackerrank.com/vkhanhqui"><img style="width:30px;height:30px" src="https://img.icons8.com/windows/344/hackerrank.png"/></a>
+<a href= "https://linkedin.com/in/vkhanhqui"><img style="width:30px;height:30px" src="https://img.icons8.com/ios/344/linkedin.png"/></a>
+<a href= "https://www.hackerrank.com/vkhanhqui"><img style="width:30px;height:30px" src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-light-tal-revivo.png"/></a>
+<a href= "https://www.leetcode.com/vkhanhqui"><img style="width:30px;height:30px" src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-light-tal-revivo.png"/></a>
 </p>
